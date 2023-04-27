@@ -19,5 +19,6 @@ To run each code:
 ``` 
 python3 <filename.py> 
 ```	
-Dataset used - DAQUAR which can be downloaded from Kaggle - https://www.kaggle.com/datasets/dotran0101/daquar 
+Dataset used - DAQUAR which can be downloaded from Kaggle - https://www.kaggle.com/datasets/dotran0101/daquar
+Save the data in dataset folder.  
 
