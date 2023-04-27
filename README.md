@@ -21,4 +21,3 @@ python3 <filename.py>
 ```	
 Dataset used - DAQUAR which can be downloaded from Kaggle - https://www.kaggle.com/datasets/dotran0101/daquar 
 
-![image](https://user-images.githubusercontent.com/95053279/234790220-8299e3ad-f92a-40e0-a650-7c22c9b9b8fd.png)
